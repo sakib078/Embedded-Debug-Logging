@@ -10,6 +10,9 @@ Features:
 4. Record-based log system: According to the filter level that you have chosen all those log messages will be dumped down in server_log.txt.
 6. Scalability: Designed to accommodate a single application or multiple applications across different machines, our logging system scales seamlessly to meet the demands of your project. Whether you're debugging a small-scale prototype or a distributed network of embedded devices, our solution adapts to your evolving needs with flexibility and reliability.
 
+Usage: 
+run according to the given setup instruction, it will create two binary files server and travel, where the travel generates the logs and the server helps to filter the log data.
+
 Setup: 
 Clone the repository into your local machine. You need a Linux-based operating system, to download the required components such as GCC compiler, and other libraries to successfully run the project. The Makefile is given, execute those to create a binary file that can be executable.
 
