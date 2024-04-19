@@ -1,0 +1,5155 @@
+Sun Mar 24 21:58:22 2024
+ DEBUG TravelSimulator.cpp:main:32 Created the objects
+
+Sun Mar 24 21:58:22 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+ects
+
+Sun Mar 24 21:58:22 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+
+
+Sun Mar 24 21:58:22 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:58:22 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 21:58:22 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:58:22 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:59:54 2024
+ DEBUG TravelSimulator.cpp:main:32 Created the objects
+
+Sun Mar 24 21:59:54 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+ects
+
+Sun Mar 24 21:59:54 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+
+
+Sun Mar 24 21:59:54 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:59:54 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 21:59:54 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:59:54 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:59:54 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:59:54 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:59:55 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:59:55 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 21:59:55 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 21:59:55 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 21:59:55 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 21:59:55 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 21:59:55 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 21:59:55 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 21:59:56 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 21:59:56 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Sun Mar 24 21:59:56 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 21:59:56 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 21:59:56 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 21:59:56 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 21:59:56 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 21:59:56 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 21:59:57 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 21:59:57 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 21:59:57 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 21:59:57 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 21:59:57 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 21:59:57 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:59:57 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:59:57 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:59:58 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:59:58 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 21:59:58 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 21:59:58 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 21:59:58 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 21:59:58 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 21:59:58 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 21:59:58 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 21:59:59 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 21:59:59 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+n
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 21:59:59 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 21:59:59 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 21:59:59 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 21:59:59 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:59:59 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 21:59:59 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:00:00 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:00:00 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:00:00 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:00:00 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:00:00 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:00:00 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:00:00 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:00:00 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:00:01 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:00:01 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Sun Mar 24 22:00:01 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:00:01 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:00:01 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:00:01 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:00:01 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:00:01 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:00:02 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:00:02 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:00:02 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:00:02 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:00:02 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:00:02 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:00:02 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:00:02 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:00:03 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:00:03 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:00:03 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:00:03 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:00:03 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:00:03 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:00:03 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:00:03 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:35 2024
+ DEBUG TravelSimulator.cpp:main:32 Created the objects
+
+Sun Mar 24 22:04:35 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+ects
+
+Sun Mar 24 22:04:35 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+
+
+Sun Mar 24 22:04:35 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:35 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:04:35 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:35 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:35 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:35 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:36 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:36 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:04:36 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:04:36 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:04:36 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:04:36 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:36 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:36 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:37 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:37 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Sun Mar 24 22:04:37 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:37 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:37 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:04:37 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:04:37 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:04:37 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:04:38 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:04:38 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:04:38 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:04:38 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:04:38 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:38 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:38 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:38 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:39 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:39 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:04:39 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:04:39 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:04:39 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:04:39 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:39 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:39 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:40 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:40 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+n
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:40 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:04:40 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:04:40 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:40 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:40 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:40 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:41 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:04:41 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:04:41 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:04:41 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:04:41 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:04:41 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:41 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:41 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:04:42 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Sun Mar 24 22:04:42 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:44 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:46 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:47 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:47 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:49 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:51 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:52 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:52 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:54 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:56 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:57 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:57 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:04:59 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:01 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:02 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:02 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:04 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:06 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:07 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:07 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:09 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:11 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:12 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:12 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:14 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:16 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:05:17 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+
+
+the rest...
+
+
+
+
+Sun Mar 24 22:07:48 2024
+ DEBUG TravelSimulator.cpp:main:32 Created the objects
+
+Sun Mar 24 22:07:48 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+ects
+
+Sun Mar 24 22:07:48 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+
+
+Sun Mar 24 22:07:48 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:07:48 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:07:48 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:07:48 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:07:48 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:07:48 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:07:49 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:07:49 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:07:49 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:07:49 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:07:49 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:07:49 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:07:49 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:07:49 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:07:50 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:07:50 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Sun Mar 24 22:07:50 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:07:50 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:07:50 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:07:50 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:07:50 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:07:50 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:07:51 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:07:51 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:07:51 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:07:51 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:07:51 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:07:51 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:07:51 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:07:51 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:07:52 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:07:52 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:07:52 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:07:52 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:07:52 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:07:52 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:16:57 2024
+ DEBUG TravelSimulator.cpp:main:32 Created the objects
+
+Sun Mar 24 22:16:57 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+ects
+
+Sun Mar 24 22:16:57 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+
+
+Sun Mar 24 22:16:57 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:16:57 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:16:57 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:16:57 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:16:57 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:16:57 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:16:58 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:16:58 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:16:58 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:16:58 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:16:58 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:16:58 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:16:58 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:16:58 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:16:59 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:16:59 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Sun Mar 24 22:16:59 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:16:59 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:16:59 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:16:59 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:16:59 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:16:59 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:17:00 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:17:00 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:17:00 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:17:00 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:17:00 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:50 2024
+ DEBUG TravelSimulator.cpp:main:32 Created the objects
+
+Sun Mar 24 22:20:50 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+ects
+
+Sun Mar 24 22:20:50 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+
+
+Sun Mar 24 22:20:50 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:50 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:20:50 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:50 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:50 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:50 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:51 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:51 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:20:51 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:20:51 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:20:51 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:20:51 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:51 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:51 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:52 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:52 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Sun Mar 24 22:20:52 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:20:52 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:20:52 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:20:52 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:20:52 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:20:52 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:20:53 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:20:53 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:20:53 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:20:53 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:20:53 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:53 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:53 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:53 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:54 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:54 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:20:54 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:20:54 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:20:54 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:20:54 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:54 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:54 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:55 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:55 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+n
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:55 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:20:55 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:20:55 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:55 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:55 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:55 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:56 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:56 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:20:56 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:20:56 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:20:56 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:20:56 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:56 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:56 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:57 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:57 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Sun Mar 24 22:20:57 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:20:57 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:20:57 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:20:57 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:20:57 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:20:57 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:20:58 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:20:58 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:20:58 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:20:58 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:20:58 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:20:58 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:58 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:58 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:20:59 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:21:01 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:21:02 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+
+
+g the rest...
+
+
+Sun Mar 24 22:21:02 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:21:04 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:21:06 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:21:07 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+
+
+g the rest...
+
+
+Sun Mar 24 22:21:07 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:27:08 2024
+ DEBUG TravelSimulator.cpp:main:32 Created the objects
+
+Sun Mar 24 22:27:08 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+ects
+
+Sun Mar 24 22:27:08 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+
+
+Sun Mar 24 22:27:08 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:27:08 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:27:08 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:27:08 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:27:08 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:27:08 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:27:09 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:27:09 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:27:09 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:27:09 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:27:09 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:27:09 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:27:09 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:27:09 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:27:10 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:27:10 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Sun Mar 24 22:27:10 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:27:10 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:27:10 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:27:10 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:27:10 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:27:10 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:27:11 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:27:11 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:27:11 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:27:11 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:27:11 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:27:11 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:27:11 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:27:11 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:27:12 2024
+ DEBUG TravelSimulator.cpp:main:47 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:27:12 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:27:12 2024
+ DEBUG TravelSimulator.cpp:main:60 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:27:12 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:27:12 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:27:12 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:27:12 2024
+ DEBUG TravelSimulator.cpp:main:67 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:27:12 2024
+ DEBUG TravelSimulator.cpp:main:79 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:31:25 2024
+ DEBUG TravelSimulator.cpp:main:32 Created the objects
+
+Sun Mar 24 22:31:25 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+ects
+
+Sun Mar 24 22:31:25 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+
+
+Sun Mar 24 22:31:25 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:31:25 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:31:25 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:31:25 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:31:25 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:31:25 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:31:26 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:31:26 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:31:26 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:31:26 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:31:26 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:31:26 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:31:26 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:31:26 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:31:27 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:31:27 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Sun Mar 24 22:31:27 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:31:27 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:31:27 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:31:27 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:31:27 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:31:27 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:31:28 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:31:28 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:31:28 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:31:28 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:31:28 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:31:28 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:31:28 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:31:28 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:34:32 2024
+ DEBUG TravelSimulator.cpp:main:32 Created the objects
+
+Sun Mar 24 22:34:32 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+ects
+
+Sun Mar 24 22:34:32 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+
+
+Sun Mar 24 22:34:32 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:34:32 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:34:32 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:34:32 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:34:32 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:34:32 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:34:33 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:34:33 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:34:33 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:34:33 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:34:33 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:34:33 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:34:33 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:34:33 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:34:34 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:34:34 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Sun Mar 24 22:34:34 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:34:34 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:34:34 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:34:34 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:34:34 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:34:34 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:34:35 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:34:35 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:34:35 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:34:35 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:34:35 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:36:48 2024
+ DEBUG TravelSimulator.cpp:main:32 Created the objects
+
+Sun Mar 24 22:36:48 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+ects
+
+Sun Mar 24 22:36:48 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+
+
+Sun Mar 24 22:36:48 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:36:48 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:36:48 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:36:48 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:36:48 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:36:48 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:36:49 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:36:49 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:36:49 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:36:49 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:36:49 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Sun Mar 24 22:36:49 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:36:49 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:36:49 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:36:50 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:36:50 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Sun Mar 24 22:36:50 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:36:50 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Sun Mar 24 22:36:50 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:36:50 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:36:50 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:36:50 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:36:51 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:36:51 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:36:51 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Sun Mar 24 22:36:51 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Sun Mar 24 22:36:51 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Sun Mar 24 22:36:51 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:36:51 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:36:51 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:36:52 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:36:52 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Sun Mar 24 22:39:00 2024
+ DEBUG TravelSimulator.cpp:main:32 Created the objects
+
+Sun Mar 24 22:39:00 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+ects
+
+Sun Mar 24 22:39:00 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+
+
+Sun Mar 24 22:39:00 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:39:00 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+Sun Mar 24 22:39:00 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+Sun Mar 24 22:39:00 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:02:55 2024
+ DEBUG TravelSimulator.cpp:main:32 Created the objects
+
+Mon Mar 25 18:02:55 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+ects
+
+Mon Mar 25 18:02:55 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+
+
+Mon Mar 25 18:02:55 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:02:55 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:02:55 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:02:55 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:02:55 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:02:55 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:02:56 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:02:56 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:02:56 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:02:56 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:02:56 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:02:56 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:02:56 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:02:56 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:02:57 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:02:57 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Mon Mar 25 18:02:57 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Mon Mar 25 18:02:57 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Mon Mar 25 18:02:57 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:02:57 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:02:57 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:02:57 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:02:58 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:02:58 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:02:58 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:02:58 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:02:58 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:02:58 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:02:58 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:02:58 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:02:59 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:02:59 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:02:59 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:02:59 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:02:59 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:02:59 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:02:59 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:02:59 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:00 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:00 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+n
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:00 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:00 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:00 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:00 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:00 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:00 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:01 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:01 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:01 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:01 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:03:01 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:03:01 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:01 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:01 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:02 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:02 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Mon Mar 25 18:03:02 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Mon Mar 25 18:03:02 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Mon Mar 25 18:03:02 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:02 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:02 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:02 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:03 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:03 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:03 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:03 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:03 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:03 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:03 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:03 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:04 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:04 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:04 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:04 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:03:04 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:03:04 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:04 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:04 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:05 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:05 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+n
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:05 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:05 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:05 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:05 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:05 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:05 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:06 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:06 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:06 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:06 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:03:06 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:03:06 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:06 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:06 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:07 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:07 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Mon Mar 25 18:03:07 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Mon Mar 25 18:03:07 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Mon Mar 25 18:03:07 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:07 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:07 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:07 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:08 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:08 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:08 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:08 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:08 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:08 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:08 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:08 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:09 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:09 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:03:09 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:03:09 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:10 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:10 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:10 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:10 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:11 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:11 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:03:11 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:03:11 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:12 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Mon Mar 25 18:03:12 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Mon Mar 25 18:03:12 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:12 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:13 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:13 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:13 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:13 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:14 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:14 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:03:14 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:03:14 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:15 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:15 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:15 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:15 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:16 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:16 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:03:16 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:03:16 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:17 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Mon Mar 25 18:03:17 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Mon Mar 25 18:03:17 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:17 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:18 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:18 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:18 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:18 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:19 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:19 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:03:19 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:03:19 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:20 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:20 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:20 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:20 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:21 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:21 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:03:21 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:03:21 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:22 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Mon Mar 25 18:03:22 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Mon Mar 25 18:03:22 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:22 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:23 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:23 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:23 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:23 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:24 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:24 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:03:24 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:03:24 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:25 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:25 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:25 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:25 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:26 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:26 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:03:26 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:03:26 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:27 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Mon Mar 25 18:03:27 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Mon Mar 25 18:03:27 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:27 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:28 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:28 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:28 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:28 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:03:29 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:03:29 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:03:29 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:03:29 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:03:30 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:03:30 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:03:30 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:08:54 2024
+ DEBUG TravelSimulator.cpp:main:32 Created the objects
+
+Mon Mar 25 18:08:54 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+ects
+
+Mon Mar 25 18:08:54 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+
+
+Mon Mar 25 18:08:54 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:08:54 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:08:54 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:08:54 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:08:54 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:08:54 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:08:55 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:08:55 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:08:55 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:08:55 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:08:55 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:08:55 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:08:55 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:08:55 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:08:56 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:08:56 2024
+ ERROR Automobile.cpp:drive:48 The blue 2008 Chevrolet Impala has no gas left in the tank
+
+g the rest...
+
+
+
+
+Mon Mar 25 18:08:56 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Mon Mar 25 18:08:56 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+the rest...
+
+
+
+
+Mon Mar 25 18:08:56 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:08:56 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:08:56 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:08:56 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:08:57 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:08:57 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+n
+vic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:08:57 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:08:57 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:08:57 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:08:57 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:08:57 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:08:57 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:08:58 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:08:58 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:08:58 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:08:58 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:08:58 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:08:58 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:08:58 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:08:58 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:08:59 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:08:59 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+n
+et Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:08:59 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+
+
+
+
+
+Mon Mar 25 18:08:59 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+
+
+
+
+
+Mon Mar 25 18:08:59 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
+Mon Mar 25 18:08:59 2024
+ WARNING Automobile.cpp:addFuel:34 The black 2016 Cadillac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:08:59 2024
+ DEBUG TravelSimulator.cpp:main:64 Added the fuel again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:08:59 2024
+ DEBUG TravelSimulator.cpp:main:75 Drove the cars
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:09:00 2024
+ DEBUG TravelSimulator.cpp:main:46 Added the fuel
+again
+ac Escalade is full of gas. Discarding the rest...
+
+
+Mon Mar 25 18:09:00 2024
+ ERROR Automobile.cpp:drive:48 The black 2016 Cadillac Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:09:00 2024
+ DEBUG TravelSimulator.cpp:main:58 Set the efficiency
+ Escalade has no gas left in the tank
+
+g the rest...
+
+
+Mon Mar 25 18:09:00 2024
+ WARNING Automobile.cpp:addFuel:34 The grey 2013 Toyota Corolla is full of gas. Discarding the rest...
+
+..
+
+
+Mon Mar 25 18:09:00 2024
+ WARNING Automobile.cpp:addFuel:34 The red 2012 Honda Civic is full of gas. Discarding the rest...
+
+..
+
+..
+
+
+Mon Mar 25 18:09:00 2024
+ WARNING Automobile.cpp:addFuel:34 The blue 2008 Chevrolet Impala is full of gas. Discarding the rest...
+
+
+
+
